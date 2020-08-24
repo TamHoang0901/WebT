@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.one
+{
+	background-image:url(../Images/tym.jpg);
+	background-repeat:repeat-x;
+	height:200px;
+	color:#C00;
+	text-align:left;
+	line-height:175px;
+}
+.two
+{
+	background-image:url(../Images/bsy.jpg);
+	height:200px;
+	color:#C00;
+	text-align:center;
+	line-height:175px;
+}
+.three
+{
+	background-image:url(../Images/vui.jpg);
+	color:#C00;
+	height:200px;
+	text-align:center;
+	line-height:175px;
+}
+

@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.one
+{
+	background-color:#666;
+	border:#000 2px solid;
+}
+.two
+{
+	border:2px solid #000000;
+	padding:4px;
+	margin:6px;
+}
+.mot
+{
+	background-color:#666;
+	border:2px solid #000;
+}
+.three
+{
+	border:dotted #666;
+	padding:2px;
+	margin:2px;
+}
+span.three
+{
+	border:dotted #FF0000;
+	padding:2px;
+	margin:2px;
+}

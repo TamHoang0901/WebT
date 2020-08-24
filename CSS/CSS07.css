@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.one
+{
+	background-color:#666;
+	color:#FFF;
+}
+.two
+{
+	background-color:#999;
+}
+.vien
+{
+	border:1px solid #000;
+}
+.cap
+{
+	padding:1px;
+	margin:-2px;
+}

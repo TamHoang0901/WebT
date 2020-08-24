@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	color:#000;
+	background-color:#999;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+p{ padding:10px;}
+p[id] {border:10px solid #000;}
+P[id="summary"] { background-color:#F00;}
+p[class~="XHTML"] { border:5px solid #0F0;}
+p[language |="en"]
+{
+	color:rgb(255,255,255);
+	background-color:rgb(0,0,0);
+}
+p[class^="b"]
+{
+	border:30px solid #000;
+	color:#F0F;
+}
+p[class$="x"]
+{
+	border:10px solid #00ff00;
+	color:#609;
+}
+p[class*="in"] {background-color:00ffff;}
